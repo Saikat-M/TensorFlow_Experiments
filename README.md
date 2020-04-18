@@ -21,5 +21,3 @@ In simple words this is the degree of how realistically/sophistically the images
 <strong>1.Google's dataset search engine: </strong>https://datasetsearch.research.google.com/
 
 <strong>2.Kaggle dataset link: </strong>https://www.kaggle.com/ciplab/real-and-fake-face-detection/data#
-                                                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                                 <strong>3.TensorFLow Documentation of "tf.keras" moduel: </strong>https://www.tensorflow.org/api_docs/python/tf/keras

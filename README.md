@@ -13,9 +13,11 @@ Before feeding the data to the Deep Neural Network, I have used 3 pair of Convol
 <h3>Data</h3>
 
 I have used Kaggel's <i>Real and Fake Face Detection</i> dataset for this project. The dataset contains 1081 tarning images for <b>Real Face Images</b> and 960 training images for <b>Fake Face Images</b>. The fake image dataset contains data of 3 category:
+
 <li>Easy</li>
 <li>Medium</li>
 <li>Hard</li>
+
 
 In simple words this is the degree of how realistically/sophistically the images has been photoshopped. But I haven't used the entire dataset for my project. I took 60 sampels for real images and same amount of samples for fake images(20 from each category).
 

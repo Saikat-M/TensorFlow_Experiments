@@ -1,4 +1,5 @@
 # TensorFlow_Experiments
+<<<<<<< HEAD
 Implementation of ML models on various use cases Using TensorFlow.
 
 <h3>Real_or_Fake_Face_Detector</h3>
@@ -19,3 +20,8 @@ This is in simple words the degree of how realistically/sophistically the images
 <h2>Useful Links</h2>
 <strong>1.Kaggle dataset link: </strong>https://www.kaggle.com/ciplab/real-and-fake-face-detection/data#
 <strong>2.TensorFLow Documentation of "tf.keras" moduel: </strong>https://www.tensorflow.org/api_docs/python/tf/keras
+=======
+Implementation of ML models on various use cases Using TensorFLOW.
+EXP
+EXP
+>>>>>>> 1ebd573604131fe859953cab91d314228c7d6f92

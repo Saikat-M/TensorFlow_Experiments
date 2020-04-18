@@ -16,6 +16,7 @@ I have used Kaggel's <i>Real and Fake Face Detection</i> dataset for this projec
 <li>Easy</li>
 <li>Medium</li>
 <li>Hard</li>
+
 In simple words this is the degree of how realistically/sophistically the images has been photoshopped. But I haven't used the entire dataset for my project. I took 60 sampels for real images and same amount of samples for fake images(20 from each category).
 
 <h3>Useful Links</h3>

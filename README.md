@@ -19,9 +19,9 @@ I have used the <b>Data Augmentation</b> technique for the training dataset. As 
 Before feeding the data to the Deep Neural Network, I have used 4 pair of Convolution and pooling layers using <b>Conv2D</b> and <b>MaxPooling2D</b> functions. Again, The number of Convolution and pooling layers can vary depending upon various parameters such as the image size or the complexity of problem etc.  
 
 
-<h3>Data Information</h3>
+<h2>Data Information</h2>
 
-<h2>1. Real_or_Fake_Face_Detector</h2>
+<h3>1. Real_or_Fake_Face_Detector</h3>
 
 I have used Kaggel's <i>Real and Fake Face Detection</i> dataset for this project. The dataset contains 1081 tarning images for <b>Real Face Images</b> and 960 training images for <b>Fake Face Images</b>. The fake image dataset contains data of 3 category:
 <li>Easy</li>
@@ -34,7 +34,7 @@ In simple words this is the degree of how realistically/sophistically the images
 
 <strong>2.Kaggle dataset link: </strong>https://www.kaggle.com/ciplab/real-and-fake-face-detection/data#
 
-<h2>2. Presence_of_Cellphone_Detector</h2>
+<h3>2. Presence_of_Cellphone_Detector</h3>
 
 I have used Kaggel's <i>Cellphone Classification</i> dataset for this project. The dataset contains 124 tarning images for <b>Images with Cellphone</b> and 121 training images for <b>Images without Cellphone</b>. 
 

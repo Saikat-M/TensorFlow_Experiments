@@ -16,8 +16,17 @@ The goal of this project is to successfully recognize whether there is any Cell 
 
 I have used the <b>Data Augmentation</b> technique for the training dataset. As I had to create a better dataset for this problem and I didn't have sufficient data it was particularly helpful to increase the accuracy. Here I've used a Training Dataset and Validation Dataset from tarining purpose.
 
-Before feeding the data to the Deep Neural Network, I have used 4 pair of Convolution and pooling layers using <b>Conv2D</b> and <b>MaxPooling2D</b> functions. Again, The number of Convolution and pooling layers can vary depending upon various parameters such as the image size or the complexity of problem etc.  
+Before feeding the data to the Deep Neural Network, I have used 4 pair of Convolution and pooling layers using <b>Conv2D</b> and <b>MaxPooling2D</b> functions. Again, The number of Convolution and pooling layers can vary depending upon various parameters such as the image size or the complexity of problem etc.
 
+<h2>3. News_Category_Detector</h2>
+
+<h3> Model Description</h3>
+The goal of this project is to successfully recognize different categoris of news based on their headlines. I've implemented a Deep Learning model with the help TensorFlow and Keras.
+
+
+For this detector, Natural Language Processing has been done before feeding the data to the Deep Neural Network. The processing includes Tokenization, then encoding the sentences based on those tokens and ultimately getting the sentiment of the sentences through Embedding.
+
+The Embedding of words can be visualized in "Embedding Projector". 
 
 <h2>Data Information</h2>
 
@@ -43,6 +52,16 @@ But as I felt the dataset wasn't good enough both in terms of number of data but
 <h3>Useful Links</h3>
 
 <strong>2.Kaggle dataset link: </strong>https://www.kaggle.com/vitorgamalemos/cellphone
+
+<h3>3. News_Category_Detector</h3>
+
+I have used Kaggel's <i>News Category Dataset</i> for this project. The dataset contains 200853 number of data for different news category. 
+
+But I have reduced the amount of data to 50000 while using it in notebook. I have provided both the dataset in the repo in .zip format.
+
+<h3>Useful Links</h3>
+
+<strong>2.Kaggle dataset link: </strong>https://www.kaggle.com/rmisra/news-category-dataset
 
 
 

@@ -24,9 +24,9 @@ Before feeding the data to the Deep Neural Network, I have used 4 pair of Convol
 The goal of this project is to successfully recognize different categoris of news based on their headlines. I've implemented a Deep Learning model with the help TensorFlow and Keras.
 
 
-For this detector, Natural Language Processing has been done before feeding the data to the Deep Neural Network. The processing includes Tokenization, then encoding the sentences based on those tokens and ultimately getting the sentiment of the sentences through Embedding.
+For this detector, <b>Natural Language Processing</b> has been done before feeding the data to the Deep Neural Network. The processing includes <b>Tokenization</b>, then <b>Encoding</b> the sentences based on those tokens and ultimately getting the sentiment of the sentences through <b>Embedding</b>.
 
-The Embedding of words can be visualized in "Embedding Projector". 
+The Embedding of words can be visualized in <b>Embedding Projector.</b> 
 
 <h2>Data Information</h2>
 

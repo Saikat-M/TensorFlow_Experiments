@@ -47,7 +47,8 @@ In simple words this is the degree of how realistically/sophistically the images
 
 I have used Kaggel's <i>Cellphone Classification</i> dataset for this project. The dataset contains 124 tarning images for <b>Images with Cellphone</b> and 121 training images for <b>Images without Cellphone</b>. 
 
-But as I felt the dataset wasn't good enough both in terms of number of data but most importantly in terms of variety, I created a dataset myself for this problem. I have provided both the dataset in the repo in .zip format.
+But as I felt the dataset wasn't good enough both in terms of number of data but most importantly in terms of variety, I created a dataset myself for this problem. I have provided both the dataset in the repo in 
+.zip format.
 
 <h3>Useful Links</h3>
 

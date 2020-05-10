@@ -58,7 +58,7 @@ But as I felt the dataset wasn't good enough both in terms of number of data but
 
 I have used Kaggel's <i>News Category Dataset</i> for this project. The dataset contains 200853 number of data for different news category. 
 
-But I have reduced the amount of data to 50000 while using it in notebook. I have provided both the dataset in the repo in .zip format.
+But I have reduced the amount of data to 49999 and have done some pre-processing before using it in notebook. I have provided both the dataset in the repo in .zip format.
 
 <h3>Useful Links</h3>
 
